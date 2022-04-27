@@ -1,0 +1,21 @@
+{
+  "name": "angular-intermediate-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular-devkit/build-angular": "^13.3.3",
+    "@angular/common": "^13.3.4",
+    "@angular/core": "^13.3.4",
+    "@angular/forms": "^13.3.4",
+    "@angular/platform-browser": "^13.3.4",
+    "@angular/platform-browser-dynamic": "^13.3.4",
+    "@angular/router": "^13.3.4",
+    "json-server": "^0.17.0"
+  }
+}
